@@ -1,13 +1,13 @@
 <?php
 /**
- * Permet de sécurisé une chaine de charactère
+ * Secures a string
  */
 function str_secur($string) {
     return trim(htmlspecialchars($string));
 }
 
 /**
- * Rend les output de var_dump plus lisible
+ * Make the var_dump output more readable
  */
 function debug($var) {
     echo '<pre>';

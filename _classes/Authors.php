@@ -29,7 +29,7 @@ class Authors
 
 
     /**
-     * Envoie de tous les auteurs
+     * Returns all author
      * @return array
      */
     static function getAllAuthors () {

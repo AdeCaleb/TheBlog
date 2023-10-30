@@ -40,7 +40,7 @@ class Articles
     }
 
     /**
-     * Envoie tout les articles
+     * Returns all articles
      * @return array
      */
     static function getAllArticles() {

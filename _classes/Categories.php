@@ -27,7 +27,7 @@ class Categories
 
 
     /**
-     * Envoie de toutes les categories
+     * Returns all categories
      * @return array
      */
     static function getAllCategories () {

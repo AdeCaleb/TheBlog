@@ -43,7 +43,7 @@ define("WEBSITE_FACEBOOK_IMAGE", "");
 
 // DataBase informations
 define("DATABASE_HOST", "localhost");
-define("DATABASE_NAME", "coursphp");
+define("DATABASE_NAME", "test");
 define("DATABASE_USER", "blackfalcon");
 define("DATABASE_PASSWORD", ".");
 
